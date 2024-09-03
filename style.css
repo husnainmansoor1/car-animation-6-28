@@ -4,10 +4,7 @@
 }
 body{
     /* mask-image: -moz-linear-gradient(2px, #fff); */
-    background-image:url('roadimg.png') ;
-    background-repeat: no-repeat;
-    background-size: cover;    
-    background-position: center ;
+    
 }
 
 hr{
